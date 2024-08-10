@@ -7,7 +7,7 @@ Using vanilla JavaScript with a ton of event listeners and search functionality 
 Using vanilla JavaScript with a ton of event listeners and search functionality to build interactive toddler game for learning keys and the names of letters.
 
 #### Live project
-
+ 
 See live project on Surge here:
 
 ## Project Screen Shots
